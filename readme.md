@@ -2,6 +2,9 @@
 
 > A curated list of arrrrrrrrr!
 
+
+Readme chnaged
+
 ## Archival
 
 This repository is now archived and will no longer receive updates. More info: https://github.com/Igglybuff/awesome-piracy/issues/724
